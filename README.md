@@ -5,22 +5,6 @@ The goal of this project is to **implement the provided SaaS dashboard designs**
 
 ---
 
-## Project Structure
-.
-├── src/
-│ ├── components/ # Reusable UI components
-│ ├── layout/ # Sidebar, Navbar, App shell
-│ ├── pages/ # Main pages (Dashboard, Orders, etc.)
-│ ├── assets/ # Static assets (images, icons)
-│ ├── App.jsx # Root App component
-│ └── main.jsx # Entry point
-├── public/ # Public assets
-├── package.json
-├── tailwind.config.js # Tailwind setup (if using Tailwind)
-└── README.md
-
----
-
 ##  Tech Stack
 - **React (Vite)** – Frontend framework  
 - **Tailwind CSS** – Styling (utility-first, responsive design)  

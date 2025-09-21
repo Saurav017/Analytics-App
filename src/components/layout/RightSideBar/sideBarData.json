@@ -1,0 +1,78 @@
+{
+    "notifications": [
+      {
+        "icon": "BellIcon",
+        "text": "You have a bug that needs fixing",
+        "time": "Just now"
+      },
+      {
+        "icon": "UserIcon",
+        "text": "New user registered",
+        "time": "59 minutes ago"
+      },
+      {
+        "icon": "BugAntIcon",
+        "text": "You have a bug that needs fixing",
+        "time": "12 hours ago"
+      },
+      {
+        "icon": "EnvelopeIcon",
+        "text": "Andi Lane subscribed to you",
+        "time": "Today, 11:59 AM"
+      }
+    ],
+    "activities": [
+      {
+        "avatar": "https://i.pravatar.cc/40?img=7",
+        "text": "You have a bug that needs fixing",
+        "time": "Just now"
+      },
+      {
+        "avatar": "https://i.pravatar.cc/40?img=8",
+        "text": "Released a new version",
+        "time": "59 minutes ago"
+      },
+      {
+        "avatar": "https://i.pravatar.cc/40?img=9",
+        "text": "Submitted a bug",
+        "time": "12 hours ago"
+      },
+      {
+        "avatar": "https://i.pravatar.cc/40?img=10",
+        "text": "Modified A data in Page X",
+        "time": "Today, 11:59 AM"
+      },
+      {
+        "avatar": "https://i.pravatar.cc/40?img=11",
+        "text": "Deleted a page in Project X",
+        "time": "Feb 2, 2023"
+      }
+    ],
+    "contacts": [
+      {
+        "avatar": "https://i.pravatar.cc/40?img=12",
+        "name": "Natali Craig"
+      },
+      {
+        "avatar": "https://i.pravatar.cc/40?img=13",
+        "name": "Drew Cano"
+      },
+      {
+        "avatar": "https://i.pravatar.cc/40?img=14",
+        "name": "Orlando Diggs"
+      },
+      {
+        "avatar": "https://i.pravatar.cc/40?img=15",
+        "name": "Andi Lane"
+      },
+      {
+        "avatar": "https://i.pravatar.cc/40?img=16",
+        "name": "Kate Morrison"
+      },
+      {
+        "avatar": "https://i.pravatar.cc/40?img=17",
+        "name": "Koray Okumus"
+      }
+    ]
+  }
+  

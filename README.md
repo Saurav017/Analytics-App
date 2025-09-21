@@ -17,9 +17,6 @@ The goal of this project is to **implement the provided SaaS dashboard designs**
 ## Setup Instructions
 Clone the repository and install dependencies:
 
-## Clone the repository
-git clone https://github.com/<your-username>/saas-dashboard.git
-
 ## Navigate into the project
 cd saas-dashboard
 
